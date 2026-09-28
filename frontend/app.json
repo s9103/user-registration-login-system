@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "User Auth App",
+    "slug": "user-auth-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.userauthapp"
+    },
+    "android": {
+      "package": "com.yourname.userauthapp"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
